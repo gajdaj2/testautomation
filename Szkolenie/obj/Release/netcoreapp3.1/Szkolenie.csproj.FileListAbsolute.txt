@@ -1,0 +1,9 @@
+C:\Users\Kuba\source\repos\Szkolenie\bin\Release\netcoreapp3.1\Szkolenie.deps.json
+C:\Users\Kuba\source\repos\Szkolenie\bin\Release\netcoreapp3.1\Szkolenie.dll
+C:\Users\Kuba\source\repos\Szkolenie\bin\Release\netcoreapp3.1\Szkolenie.pdb
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.csprojAssemblyReference.cache
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.dll
+C:\Users\Kuba\source\repos\Szkolenie\obj\Release\netcoreapp3.1\Szkolenie.pdb
